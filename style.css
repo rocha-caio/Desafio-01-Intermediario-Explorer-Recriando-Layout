@@ -1,0 +1,54 @@
+/*
+Fonts used on this project:
+
+font-family: 'Dosis', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+
+*/
+
+
+body {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+#destiny {
+  width: 648px;
+  margin: 64px auto 0px;
+}
+
+#destiny h1 {
+  line-height: auto;
+  font-family: 'Dosis', sans-serif;
+  font-weight: normal;
+  font-size: 32px;
+}
+
+#destiny h1 span {
+  color: #EE24FF;
+}
+
+#destiny p {
+  font-size: 15px;
+  line-height: 22px;
+  color: #828282;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#destiny p .dif {
+  color: #3F3D56;
+}
+
+#footer {
+  margin:74px 0px 10px;
+}
+
+#footer img {
+  width: 1024px;
+  height: 176px;
+  position: fixed;
+  left: 199px;
+  right: 199px;
+}
